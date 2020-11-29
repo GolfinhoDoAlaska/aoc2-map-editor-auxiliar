@@ -1,0 +1,4 @@
+1. Download the 'main.py' file
+2. Put it into the map editor folder
+3. Run until it's all in order and no PROVs are null
+4. Enjoy!
